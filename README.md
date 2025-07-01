@@ -45,30 +45,40 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassam&show_icons=true&theme=radical" alt="Hassam's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassam&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Hassam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Hassam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassam&theme=gruvbox&no-frame=true&row=1&margin-w=10" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Muhammad-Hassam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Muhammad-Hassam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ### 🔥 Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Muhammad-Hassam&icon=0&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hassam&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <!-- Proudly created with ❤️ by Hassam -->
+
+
+
+
+
+
+
+
+
+
+
+
+
