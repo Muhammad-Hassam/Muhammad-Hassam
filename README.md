@@ -1,5 +1,22 @@
 # 💫 About Me:
-Developing and maintaining high-performance mobile applications, I've skills in React Native, Flutter for mobile app development and MERN Stack for full-stack development. My focus is on clean UI/UX, native integrations, and performance optimization..<br>Open-source and freelance projects involving mobile app development (React Native / Flutter), full-stack MERN applications, media-tech solutions, or real-time app experiences. Always open to meaningful collaboration and learning opportunities.<br>Advancing my expertise in iOS (Swift), CI/CD automation for mobile apps, native module development, and ML or Face ID integration in mobile applications.<br>React Native, Flutter, Firebase, MERN stack, UI/UX optimization for mobile, cross-platform performance, and working with real-time or media-centric applications.<br>I hold a Master's degree in Computer Science and Information Technology, with a strong foundation in software engineering and practical development skills.
+I'm a passionate Mobile and Full-Stack Developer with expertise in React Native, Flutter, and the MERN Stack. I specialize in building high-performance, scalable applications with a strong focus on UI/UX, native integrations, and cross-platform optimization.
+
+**I actively work on open-source and freelance projects involving:**
+Cross-platform mobile apps (React Native / Flutter)
+Full-stack web applications (MERN)
+Real-time experiences & media-tech solutions
+
+**I'm currently enhancing my skills in:**
+iOS Development (Swift)
+CI/CD automation for mobile
+Native module development
+Machine Learning & Face ID integration in mobile apps
+
+**My core skill set includes:**
+React Native, Flutter,React JS, NextJs, Firebase, GraphQL
+Node.js, Express, MongoDB
+UI/UX optimization, real-time apps, media-centric development
+I hold a Master's degree in Computer Science & IT, backed by hands-on experience in software engineering and practical development.
 
 
 ## 🌐 Socials:
